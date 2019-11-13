@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea24f0d1-1daa-451c-a2f0-35cfffea0497" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1READsqtKR18Bkxhnj6NF1Vbafw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapy" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonStudy\com_leyou\utils" />
+      <recent name="D:\pythonStudy\com_leyou" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="com_leyou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/car" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="com_leyou" type="Python.DjangoServer" factoryName="Django server">
+      <module name="com_leyou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\风泊\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea24f0d1-1daa-451c-a2f0-35cfffea0497" name="Default Changelist" comment="" />
+      <created>1569221764674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569221764674</updated>
+      <workItem from="1569221765813" duration="8811000" />
+      <workItem from="1569311966069" duration="11059000" />
+      <workItem from="1569564113604" duration="106000" />
+      <workItem from="1569565337769" duration="2000" />
+      <workItem from="1569569971974" duration="10167000" />
+      <workItem from="1569631747556" duration="6615000" />
+      <workItem from="1569716898524" duration="6296000" />
+      <workItem from="1569807075172" duration="4696000" />
+      <workItem from="1569828795140" duration="672000" />
+      <workItem from="1569830480540" duration="231000" />
+      <workItem from="1570001285879" duration="207000" />
+      <workItem from="1570341100272" duration="79000" />
+      <workItem from="1570341189676" duration="1330000" />
+      <workItem from="1570347263499" duration="4182000" />
+      <workItem from="1570353179533" duration="1005000" />
+      <workItem from="1570438100060" duration="389000" />
+      <workItem from="1570438505882" duration="3520000" />
+      <workItem from="1570493687317" duration="20909000" />
+      <workItem from="1570581150858" duration="3389000" />
+      <workItem from="1570600539981" duration="7991000" />
+      <workItem from="1570690025766" duration="1164000" />
+      <workItem from="1570692290029" duration="527000" />
+      <workItem from="1570692919049" duration="1278000" />
+      <workItem from="1570755159413" duration="90000" />
+      <workItem from="1570756018816" duration="1710000" />
+      <workItem from="1570780974463" duration="5723000" />
+      <workItem from="1570840216139" duration="685000" />
+      <workItem from="1570870237825" duration="241000" />
+      <workItem from="1570939218321" duration="4658000" />
+      <workItem from="1571012471722" duration="769000" />
+      <workItem from="1571013966650" duration="8211000" />
+      <workItem from="1572221891513" duration="709000" />
+      <workItem from="1572230446222" duration="748000" />
+      <workItem from="1572259513108" duration="52000" />
+      <workItem from="1572499974452" duration="1110000" />
+      <workItem from="1572655191930" duration="788000" />
+      <workItem from="1572920468426" duration="644000" />
+      <workItem from="1573125589594" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_leyou$views.coverage" NAME="views Coverage Results" MODIFIED="1570604024820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/car" />
+  </component>
+</project>
